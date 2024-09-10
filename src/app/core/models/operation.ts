@@ -9,5 +9,4 @@ export interface Operation {
     compte: Comptes;
     //numCompteDestination: string;
     //numCompteSource: string;
-
 }
